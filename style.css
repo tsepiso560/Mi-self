@@ -1,0 +1,12 @@
+h1{
+  color:blue;
+}
+button{
+  background-color: pink;
+}
+div{
+  background-color: green;
+}
+.topnav li {
+  float: left
+}
